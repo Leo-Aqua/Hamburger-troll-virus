@@ -3,7 +3,7 @@
 
 #What it does 
 
-It lets your pc say "HAMBURGER" every 5 seconds after a login
+It let's your PC say "HAMBURGER" every 5 seconds with full volume after login or reboot
 
 # FAQ
  Is it dangerous?
