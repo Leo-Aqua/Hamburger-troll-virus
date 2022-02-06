@@ -17,3 +17,8 @@ It let's your PC say "HAMBURGER" every 5 seconds with full volume after login or
  
  - Just wait or log off
  
+ 
+# Download
+
+[Releases](https://github.com/Leo-Aqua/Hamburger-troll-virus/releases)
+ 
